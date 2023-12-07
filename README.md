@@ -1,4 +1,4 @@
-<h1>Microsoft Azure Sentinal (SIEM) with Virtual Machine (Honeypot)</h1>
+<h1>Microsoft Azure Sentinel (SIEM) with Virtual Machine (Honeypot)</h1>
 
 <h2>Description</h2>
 Azure Sentinel (SIEM) setup along with a live Virtual Machine acting as a Honey Pot. Will observe live attacks (RDP Brute Force) from around the world. Will use a custom PowerShell script to look up attacker's Geolocation information and plot it on the Azure Sentinel Map.
